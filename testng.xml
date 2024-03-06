@@ -5,7 +5,7 @@
 			<class name="commonMethods.Testcases" />
 		</classes>
 		<methods>
-			<include name="Scenario2" priority="2" />
+			<include name="Scenario1" priority="2" />
 		</methods>
 	</test>
 	<listeners>
