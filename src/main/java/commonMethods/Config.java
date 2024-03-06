@@ -198,7 +198,7 @@ public class Config extends Keywords {
 
 			ChromeOptions options = new ChromeOptions();
 			WebDriverManager.chromedriver().setup();
-//			options.addArguments("--headless");
+			options.addArguments("--headless");
 			options.addArguments("disable-notifications");
 //			options.setExperimentalOption("excludeSwitches", Arrays.asList("disable-popup-blocking"));
 			LoggingPreferences logPrefs = new LoggingPreferences();
@@ -208,9 +208,9 @@ public class Config extends Keywords {
 			 driver = new ChromeDriver(options);
 			System.out.println("Chrome Browser launched...");	
 			setDriver(driver);
-//			Dimension dimension=new Dimension(1200,800);
-//			driver.manage().window().setSize(dimension);
-			driver.manage().window().maximize();
+			Dimension dimension=new Dimension(1200,800);
+			driver.manage().window().setSize(dimension);
+			// driver.manage().window().maximize();
 
 		}
 		return driver;
