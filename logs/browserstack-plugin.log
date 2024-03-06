@@ -1,0 +1,195 @@
+13:02:03.330 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+13:02:30.538 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:02:30.539 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:02:30.539 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:02:30.540 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:06:00.043 [Worker-41: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:06:00.063 [Worker-41: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:06:00.498 [Worker-41: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:06:00.498 [Worker-41: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:06:35.767 [Worker-41: Launching Testcases] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:06:35.971 [Worker-41: Launching Testcases] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:06:35.971 [Worker-41: Launching Testcases] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:07:09.608 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:07:09.609 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:07:09.609 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:07:09.609 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:07:11.112 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:07:11.116 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:07:11.117 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:07:11.120 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:08:07.502 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:08:07.503 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:08:07.503 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:08:07.503 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:08:10.223 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:08:10.229 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:08:10.229 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:08:10.232 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:08:54.259 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+13:09:13.775 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:09:13.775 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+13:09:13.775 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:09:13.776 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+13:34:24.535 [Worker-70: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:34:24.535 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:34:24.546 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:34:24.841 [Worker-70: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:34:24.841 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:34:59.601 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:34:59.791 [Worker-70: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:34:59.791 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:39:38.865 [Worker-69: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:39:39.047 [Worker-69: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:39:39.047 [Worker-69: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+13:40:03.554 [Worker-69: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:17:30.499 [Worker-71: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:17:30.500 [Worker-71: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:17:30.519 [Worker-71: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:21:01.906 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:21:01.907 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+14:21:01.908 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:21:01.909 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+14:21:04.704 [Worker-79: Launching TestNgXml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:21:04.705 [Worker-79: Launching TestNgXml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:21:04.713 [Worker-79: Launching TestNgXml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:21:21.362 [Worker-74: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:21:21.362 [Worker-74: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:21:21.367 [Worker-74: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+14:21:54.835 [Framework stop - Equinox Container: 02d36e6e-efb8-412f-9a02-23fd3a3c15c7] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+20:01:05.545 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+20:10:25.659 [Worker-53: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:10:25.659 [Worker-53: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:10:25.663 [Worker-53: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:11:47.934 [Worker-57: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:11:47.934 [Worker-57: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:11:47.937 [Worker-57: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:11:48.512 [Worker-57: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:11:48.512 [Worker-57: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:11:48.515 [Worker-57: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:22:08.099 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:22:08.100 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:22:08.100 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:22:08.101 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:22:38.550 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:22:38.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:22:38.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:22:38.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:22:51.154 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:22:51.155 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:22:51.155 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:22:51.155 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:22:59.507 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:22:59.508 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:22:59.508 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:22:59.509 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:23:53.892 [Worker-59: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:23:53.892 [Worker-59: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:23:53.895 [Worker-59: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:24:25.961 [Worker-61: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:24:25.961 [Worker-61: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:24:25.964 [Worker-61: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:25:17.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:25:17.372 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:25:17.373 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:25:17.373 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:25:27.899 [Worker-62: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:25:27.899 [Worker-62: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:25:27.903 [Worker-62: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:32:31.202 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:32:31.203 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:32:31.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:32:31.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:32:41.345 [Worker-60: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:32:41.345 [Worker-60: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:32:41.350 [Worker-60: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:32:50.033 [main] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:32:50.033 [main] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:36:33.471 [Worker-66: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:43:46.000 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+20:43:46.001 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SnaptrudeDemo
+20:43:46.001 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+20:43:46.002 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SnaptrudeDemo
+20:43:49.451 [Worker-66: Launching TestNgXml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:43:49.451 [Worker-66: Launching TestNgXml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:43:49.456 [Worker-66: Launching TestNgXml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:44:09.998 [Worker-70: Launching SnaptrudeDemo_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+20:44:09.998 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in removing the argLine - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:44:10.001 [Worker-70: Launching SnaptrudeDemo_testng.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\RBT\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.0\browserstack-java-sdk-1.7.0.jar'
+                ^
+20:16:39.840 [Framework stop - Equinox Container: f02a6909-0b09-4d7f-bc2d-99cee32504b2] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
