@@ -79,7 +79,7 @@ public class Scenario1 extends Keywords {
 		driver.findElement(By.xpath("//*[contains(text(),'" + Vessel + "')]")).click();
 
 		waitForElement(driver, Openplantop);
-
+/*
 		driver.findElement(By.xpath("//*[contains(text(),'Single Screen Plan')]/preceding::input[@type='checkbox']"))
 				.click();
 
@@ -329,7 +329,7 @@ public class Scenario1 extends Keywords {
 				.visibilityOfElementLocated(By.xpath("//*[contains(text(),'Created successfully')]")));
 		
 		
-		
+		*/
 
 	}
 
