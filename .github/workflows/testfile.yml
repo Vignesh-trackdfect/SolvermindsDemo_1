@@ -19,7 +19,7 @@ jobs:
       - name: Run TestNG Tests
         run: mvn -B test -Dsurefire.suiteXmlFiles=testng.xml
 
-      - name: Generate Extent Reports
-        run: |
-          timeStamp=$(date +"%H%M")
-          mvn -B exec:java -Dexec.mainClass="com.example.GenerateExtentReports" -Dexec.args="$timeStamp"
+      # - name: Generate Extent Reports
+      #   run: |
+      #     timeStamp=$(date +"%H%M")
+      #     mvn -B exec:java -Dexec.mainClass="com.example.GenerateExtentReports" -Dexec.args="$timeStamp"
